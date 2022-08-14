@@ -4,7 +4,7 @@ Hi 👋 My name is Andrew Millward
 Software Engineer
 -----------------
 
-I've been learning to program over the past 8 years, starting as a hobby in high school. I initially started learning Python, making small video games for class projects, though I quickly branched out to more and more languages and developed a deep passion for software engineering. In college, I worked on many projects as a part of both my undergraduate and graduate education, culminating in a thesis that developed and evaluated a new algorithm within the field of bioinformatics. I have since developed experience in building network applications and machine learning models.
+I've been learning to program over the past 8 years, starting as a hobby in high school. I initially started learning Python, making small video games for class projects, though I quickly branched out to more and more languages and frameworks and slowly developed a deep passion for software engineering. In college, I worked on many projects as a part of both my undergraduate and graduate education, culminating in a thesis that developed and evaluated a new algorithm within the field of bioinformatics. I have since developed experience in building network applications and machine learning models.
 
 * 🌍  I'm based in Richmond, VA
 * ✉️  You can contact me at [andrew.j.millward@gmail.com](mailto:andrew.j.millward@gmail.com)
@@ -24,6 +24,7 @@ I've been learning to program over the past 8 years, starting as a hobby in high
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="36" height="36" alt="React" /></a>
 </p>
 
 
